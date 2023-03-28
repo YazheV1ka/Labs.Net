@@ -1,0 +1,15 @@
+D:\code\C#\Labs\LINQ\1\Lab1LINQ\Lab1LINQ\bin\Debug\net6.0\Lab1LINQ.exe
+D:\code\C#\Labs\LINQ\1\Lab1LINQ\Lab1LINQ\bin\Debug\net6.0\Lab1LINQ.deps.json
+D:\code\C#\Labs\LINQ\1\Lab1LINQ\Lab1LINQ\bin\Debug\net6.0\Lab1LINQ.runtimeconfig.json
+D:\code\C#\Labs\LINQ\1\Lab1LINQ\Lab1LINQ\bin\Debug\net6.0\Lab1LINQ.dll
+D:\code\C#\Labs\LINQ\1\Lab1LINQ\Lab1LINQ\bin\Debug\net6.0\Lab1LINQ.pdb
+D:\code\C#\Labs\LINQ\1\Lab1LINQ\Lab1LINQ\obj\Debug\net6.0\Lab1LINQ.csproj.AssemblyReference.cache
+D:\code\C#\Labs\LINQ\1\Lab1LINQ\Lab1LINQ\obj\Debug\net6.0\Lab1LINQ.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\C#\Labs\LINQ\1\Lab1LINQ\Lab1LINQ\obj\Debug\net6.0\Lab1LINQ.AssemblyInfoInputs.cache
+D:\code\C#\Labs\LINQ\1\Lab1LINQ\Lab1LINQ\obj\Debug\net6.0\Lab1LINQ.AssemblyInfo.cs
+D:\code\C#\Labs\LINQ\1\Lab1LINQ\Lab1LINQ\obj\Debug\net6.0\Lab1LINQ.csproj.CoreCompileInputs.cache
+D:\code\C#\Labs\LINQ\1\Lab1LINQ\Lab1LINQ\obj\Debug\net6.0\Lab1LINQ.dll
+D:\code\C#\Labs\LINQ\1\Lab1LINQ\Lab1LINQ\obj\Debug\net6.0\refint\Lab1LINQ.dll
+D:\code\C#\Labs\LINQ\1\Lab1LINQ\Lab1LINQ\obj\Debug\net6.0\Lab1LINQ.pdb
+D:\code\C#\Labs\LINQ\1\Lab1LINQ\Lab1LINQ\obj\Debug\net6.0\Lab1LINQ.genruntimeconfig.cache
+D:\code\C#\Labs\LINQ\1\Lab1LINQ\Lab1LINQ\obj\Debug\net6.0\ref\Lab1LINQ.dll
